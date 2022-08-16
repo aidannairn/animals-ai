@@ -18,6 +18,8 @@
 .env.test.local
 .env.production.local
 
+automl-img-classification-3dc46c76c7fa.json
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
